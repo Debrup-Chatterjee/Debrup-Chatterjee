@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack, Python and Java** 
 
-- 💬 Ask me about **WAMP stack,MERN stack,Python,Java**
+- 💬 Ask me about **WAMP stack, MERN stack, Python, Java**
 
 - 📫 How to reach me **debrupchatterjee31@gmail.com**
 
