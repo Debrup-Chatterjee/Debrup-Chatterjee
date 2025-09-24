@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debrup-chatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="debrup-chatterjee" /> </p>
 
-- 🌱 I’m currently learning **MERN stack, Python and Java** 
+- 🌱 I’m currently learning and exploring **MERN stack, Python and Java** 
 
 - 💬 Ask me about **WAMP stack, MERN stack, Python, Java**
 
